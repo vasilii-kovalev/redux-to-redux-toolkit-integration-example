@@ -1,6 +1,7 @@
 {
 	"name": "redux-to-redux-toolkit-integration-example",
 	"version": "0.1.0",
+	"homepage": "https://vasilii-kovalev.github.io/redux-to-redux-toolkit-integration-example",
 	"private": true,
 	"scripts": {
 		"start": "react-scripts start",
