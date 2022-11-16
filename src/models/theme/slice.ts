@@ -1,4 +1,4 @@
-import { Reducer } from "redux";
+import { Reducer } from "@reduxjs/toolkit";
 
 import { PossibleActions, TOGGLE_THEME_ACTION_TYPE } from "./actions";
 import { Theme } from "./constants";
